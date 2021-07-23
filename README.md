@@ -22,4 +22,4 @@ appendChild()
 push()
 Array()
 continue
-And many more.
+And many more.  
